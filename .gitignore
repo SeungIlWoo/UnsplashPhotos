@@ -131,4 +131,7 @@ iOSInjectionProject/
 !*.xcworkspace/contents.xcworkspacedata
 **/xcshareddata/WorkspaceSettings.xcsettings
 
+### API Key ###
+UnsplashPhotos/Env.swift
+
 # End of https://www.toptal.com/developers/gitignore/api/swift,xcode,macos
